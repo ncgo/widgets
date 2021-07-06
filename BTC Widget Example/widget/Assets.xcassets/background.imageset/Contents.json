@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "tumblr-sky-clouds-Favim.com-6329000-2.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "tumblr_pbnbvhjEhF1u8duojo1_400.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

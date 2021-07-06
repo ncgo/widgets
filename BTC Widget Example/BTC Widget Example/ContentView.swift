@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  widget
+//  BTC Widget Example
 //
-//  Created by Nadia Garcia on 28/06/21.
+//  Created by Nadia Garcia on 01/07/21.
 //
 
 import SwiftUI
